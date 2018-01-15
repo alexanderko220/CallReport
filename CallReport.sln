@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallReport", "CallReport\CallReport.csproj", "{4081C595-CDD3-491C-AE21-2D1A5F3E2DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportBL", "ReportBL\ReportBL.csproj", "{6D4373AF-6F6C-4FCA-ADE8-7BD4E1032580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4081C595-CDD3-491C-AE21-2D1A5F3E2DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4081C595-CDD3-491C-AE21-2D1A5F3E2DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4081C595-CDD3-491C-AE21-2D1A5F3E2DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4081C595-CDD3-491C-AE21-2D1A5F3E2DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4373AF-6F6C-4FCA-ADE8-7BD4E1032580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4373AF-6F6C-4FCA-ADE8-7BD4E1032580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4373AF-6F6C-4FCA-ADE8-7BD4E1032580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4373AF-6F6C-4FCA-ADE8-7BD4E1032580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
